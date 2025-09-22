@@ -1,0 +1,7 @@
+# Gitignore to ignore everything in the .obsidian folder except plugins and themes
+.obsidian/
+!.obsidian/plugins/
+!.obsidian/themes/
+
+# Ignore the local trash directory
+.trash/
