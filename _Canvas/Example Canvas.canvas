@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fa2a000bb757b777","x":-540,"y":-140,"width":380,"height":140,"type":"text","text":"This is an example Canvas drawing. I don't really use these but to be honest,  I need to add one just to make sure `.git` tracks this directory."},
+		{"id":"382d549a75011641","x":80,"y":-200,"width":337,"height":130,"type":"text","text":"However, this is actually a cool concept, so I wonder if it has good use for a D&D setting."}
+	],
+	"edges":[
+		{"id":"1a6ba26116a8987d","fromNode":"fa2a000bb757b777","fromSide":"right","toNode":"382d549a75011641","toSide":"left"}
+	]
+}

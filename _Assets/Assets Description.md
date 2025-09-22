@@ -1,0 +1,1 @@
+[[Assets Description]]. Assets will get auto-located to the Assets folder. This folder will include all the copy-pasted images in the directory.
